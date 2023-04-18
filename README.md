@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm **Kaike Castro**, a Front-End Engineer who lives in Rio de Janeiro, Brazil.
+I'm **Kaike Castro**, a Software Engineer who lives in Rio de Janeiro, Brazil.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kaike_castro)](https://twitter.com/kaike_castro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaike-castro)](https://www.linkedin.com/in/kaike-castro)
